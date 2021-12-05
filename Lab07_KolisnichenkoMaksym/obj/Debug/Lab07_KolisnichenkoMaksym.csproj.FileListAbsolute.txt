@@ -1,0 +1,11 @@
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\bin\Debug\Lab07_KolisnichenkoMaksym.exe.config
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\bin\Debug\Lab07_KolisnichenkoMaksym.exe
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\bin\Debug\Lab07_KolisnichenkoMaksym.pdb
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.csproj.AssemblyReference.cache
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.Form1.resources
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.Form2.resources
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.Properties.Resources.resources
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.csproj.GenerateResource.cache
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.csproj.CoreCompileInputs.cache
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.exe
+D:\4 Курс\Lab07_KolisnichenkoMaksym\Lab07_KolisnichenkoMaksym\obj\Debug\Lab07_KolisnichenkoMaksym.pdb
